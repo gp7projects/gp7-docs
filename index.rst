@@ -9,9 +9,18 @@ Welcome to Gp7's documentation!
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Contents:
+   :caption: Etudiants et scolarité:
 
    Students/preenrolment
    Students/enrolment
    Students/studentfiles
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Etudes:
+
+   Studies/educationalentities
+   Studies/department
+   Studies/studyplan
 

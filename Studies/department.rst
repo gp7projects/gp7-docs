@@ -1,2 +1,2 @@
-Gestion des dossiers d’étudiants
-++++++++++++++++++++++++++++++++
+Gestion des formations (Cursus)
+===============================
