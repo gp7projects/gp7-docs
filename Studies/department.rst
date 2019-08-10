@@ -1,2 +1,0 @@
-Gestion des formations (Cursus)
-===============================
